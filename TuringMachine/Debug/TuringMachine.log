@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\trran\source\repos\turingmachine\turingmachine\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  TuringMachine.vcxproj -> C:\Users\trran\source\repos\TuringMachine\Debug\TuringMachine.exe
